@@ -1,6 +1,7 @@
 {
-  "synthetic_data_only": true,
-  "api_gateway": "not-deployed",
   "preview_only": true,
-  "source_commit": "1ad5d1d1cfeda7f5794d0e6e618b8baf0b64871c"
+  "synthetic_data_only": true,
+  "phase": 4,
+  "api_gateway": "not-deployed",
+  "source_commit": "7ff1bdd844080104f93584f3ab5da06f03083b00"
 }
