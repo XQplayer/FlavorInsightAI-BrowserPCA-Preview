@@ -1,0 +1,1 @@
+var e=`/FlavorInsightAI-BrowserPCA-Preview/assets/RDKit_minimal-tnscgqxm.wasm`;export{e as default};
