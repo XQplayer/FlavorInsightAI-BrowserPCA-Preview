@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-CEpd2cAX.js";import t from"./ShimadzuAnalysisPage-wo4vhdoC.js";var n=e();function r({language:e,theme:r,onNavigate:i,processingView:a=`new`,selectedTaskId:o=``,onProcessingNavigate:s}){return(0,n.jsx)(t,{embedded:!0,language:e,theme:r,onNavigate:i,processingView:a,selectedTaskId:o,onProcessingNavigate:s})}export{r as default};
